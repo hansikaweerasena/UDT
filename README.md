@@ -6,7 +6,9 @@
 2. Logistic Regression ([logistic_regression.ipynb](./logistic_regression.ipynb)): This notebook contains the logistic regression model for diabetes prediction.
 3. Random Forest ([random_forest.ipynb](./random_forest.ipynb)): This notebook contains the random forest model for diabetes prediction.
 4. Support Vector Machine (SVM) ([svm.ipynb](./svm.ipynb)): This notebook contains the support vector machine model for diabetes prediction.
-5. Neural Network ([neural_network.ipynb](./neural_network.ipynb)): This notebook contains the neural network model for diabetes prediction.
+5. Ensemble models ([ensemble.ipynb](./ensemble.ipynb)): This notebook contains the ensemble models for diabetes prediction.
+6. Neural Network ([neural_network.ipynb](./neural_network.ipynb)): This notebook contains the neural network model for diabetes prediction.
+7. DAC model ([dac.ipynb](./dac.ipynb)): This notebook contains the DAC model for diabetes prediction.
 
 #### Utility functions:
 
