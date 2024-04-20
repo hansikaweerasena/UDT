@@ -1,4 +1,4 @@
-### Predictive modeling and analytics for diabetes 
+## nveiling Diabetic Trends: Exploring Lifestyle Patterns for Diagnosis Using Supervised Machine Learning
 
 ### This repository contains data preprocessing and four different approaches to predict diabetes using different machine learning algorithms. They are five separate notebooks and as follows:
 
