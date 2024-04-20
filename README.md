@@ -10,4 +10,4 @@
 
 #### Utility functions:
 
-1. common.py : This file contains the common functions used in all the notebooks. It contains the functions for data preprocessing, data visualization, model evaluation, and model prediction.
+1. [common.py](./common.py) : This file contains the common functions used in all the notebooks. It contains the functions for data preprocessing, data visualization, model evaluation, and model prediction.
